@@ -1,3 +1,5 @@
+console.clear();
+
 require("colors");
 
 const readline = require("readline");
